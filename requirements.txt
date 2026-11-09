@@ -1,0 +1,5 @@
+opencv-python
+numpy
+mss
+requests
+imageio-ffmpeg
